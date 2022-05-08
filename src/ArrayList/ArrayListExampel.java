@@ -1,10 +1,12 @@
+package ArrayList;
+
 import java.util.ArrayList;
 
 
 public class ArrayListExampel{
     public static void main(String[] args){
 
-        //ArrayListExampel = a resizeble array
+        //ArrayList.ArrayListExampel = a resizeble array
 
 
         /*ArrayList<String> food = new ArrayList<String>();
